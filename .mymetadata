@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dhcpCodeBeifen"
+  id="myeclipse.1464157492264"
+  context-root="/dhcp"
+  j2ee-spec="1.7"
+  archive="dhcpCodeBeifen.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

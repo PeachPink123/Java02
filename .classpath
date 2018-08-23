@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="WebRoot/WEB-INF/classes" path="src"/>
+	<classpathentry excluding="**" kind="src" output="WebRoot/WEB-INF/classes" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/BaseCommonUtil.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/ParamFilter.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/SqlSessionCache.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/Arith.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/CommonUtil.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/OSSFTPFileEntryParserFactory.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/PasswordEncoder.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/PropertiesUtil.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/RandomValidateCode.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/SHACoder.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/common-aop.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/common-constant.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/common-sm.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/SysUserController.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/SysUserService.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/SysUserServiceImpl.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/JDBCAppender.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/dhcp-util.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/SwitchController.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/SwitchService.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/SwitchServiceImpl.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/DhcpSysController.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/DhcpSysService.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/DhcpSysServiceImpl.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/DhcpNetController.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/DhcpNetService.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/DhcpNetServiceImpl.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/AccessFilter.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
